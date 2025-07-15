@@ -28,6 +28,18 @@
   </thead>
   <tbody>
     <tr>
+      <td rowspan="1" colspan="1" align="center" style="text-align: center"><div class="ltd-code"><code>ja_JP</code></div></td>
+      <td rowspan="1" colspan="1" align="center" style="text-align: center"><div class="ltd-name">
+        <div class="ltd-name-english">Japanese</div>
+        <div class="ltd-name-native">日本語</div>
+      </div></td>
+      <td rowspan="1" colspan="1" align="center" style="text-align: center"><div class="ltd-region">Japan</div></td>
+      <td rowspan="1" colspan="1" align="center" style="text-align: center"><div class="crowdin-code"><code>ja</code></div></td>
+      <td rowspan="1" colspan="1" align="center" style="text-align: center"><div class="crowdin-sym"><code>あ</code></div></td>
+      <td rowspan="1" colspan="1" align="center" style="text-align: center"><div class="rtd-code"><code>ja</code></div></td>
+      <td rowspan="1" colspan="1" align="center" style="text-align: center"><div class="rtd-name">Japanese</div></td>
+    </tr>
+    <tr>
       <td rowspan="1" colspan="1" align="center" style="text-align: center"><div class="ltd-code"><code>ru_RU</code></div></td>
       <td rowspan="1" colspan="1" align="center" style="text-align: center"><div class="ltd-name">
         <div class="ltd-name-english">Russian</div>
