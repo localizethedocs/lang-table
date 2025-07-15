@@ -1,0 +1,59 @@
+name: Request a New Language
+description: Use this template for requesting a new language.
+title: "[Langauge] `<locale-code>` : <english-name>"
+labels: [ "new language" ]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Language Request
+      description: |
+        Example 1:
+        - **Locale Code:** `zh_CN`
+        - **English Name:** Simplified Chinese
+        - **Native Name:** 简体中文
+        - **Region Name:** China
+        - **Crowdin Code:** `zh-CN`
+        - **Crowdin Symbol:** `简`
+        - **ReadTheDocs Code:** `zh_CN`
+        - **ReadTheDocs Name:** Simplified Chinese
+
+        Example 2:
+        - **Locale Code:** `zh_TW`
+        - **English Name:** Traditional Chinese
+        - **Native Name:** 繁體中文
+        - **Region Name:** Taiwan
+        - **Crowdin Code:** `zh-TW`
+        - **Crowdin Symbol:** `繁`
+        - **ReadTheDocs Code:** `zh_TW`
+        - **ReadTheDocs Name:** Traditional Chinese
+      value: |
+        - **Locale Code:**
+        - **English Name:**
+        - **Native Name:**
+        - **Region Name:**
+        - **Crowdin Code:**
+        - **Crowdin Symbol:**
+        - **ReadTheDocs Code:**
+        - **ReadTheDocs Name:**
+    validations:
+      required: true
+  - type: checkboxes
+    id: checklists
+    attributes:
+      label: Checklists
+      options:
+        - label: The locale `ll_RR` is not requested yet.
+          required: true
+        - label: The language `ll` is a valid [ISO 639-1](https://localizely.com/iso-639-1-list/) or [ISO 639-2](https://localizely.com/iso-639-2-list/) code.
+          required: true
+        - label: The region `RR` is a valid [ISO 3166-1 alpha-2](https://localizely.com/iso-3166-1-alpha-2-list/) code.
+          required: true
+        - label: The language `ll` is an official language of the region `RR`.
+          required: true
+        - label: The language is supported by [Crowdin](https://support.crowdin.com/developer/language-codes/).
+          required: true
+        - label: The language is supported by [Read The Docs](https://github.com/localizethedocs/lang-table/issues/1).
+          required: true
+        - label: The Crowdin symbol of the language is unique. (Check [here](https://crowdin.com/project/list-all-languages))
+          required: true
