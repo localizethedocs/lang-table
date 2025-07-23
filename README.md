@@ -64,6 +64,18 @@
       <td rowspan="1" colspan="1" align="center" style="text-align: center"><div class="rtd-name">French</td>
     </tr>
     <tr>
+      <td rowspan="1" colspan="1" align="center" style="text-align: center"><div class="ltd-code"><code>hi_IN</code></div></td>
+      <td rowspan="1" colspan="1" align="center" style="text-align: center"><div class="ltd-name">
+        <div class="ltd-name-english">Hindi</div>
+        <div class="ltd-name-native">हिन्दी</div>
+      </div></td>
+      <td rowspan="1" colspan="1" align="center" style="text-align: center"><div class="ltd-region">India</div></td>
+      <td rowspan="1" colspan="1" align="center" style="text-align: center"><div class="crowdin-code"><code>hi</code></div></td>
+      <td rowspan="1" colspan="1" align="center" style="text-align: center"><div class="crowdin-sym"><code>हि</code></div></td>
+      <td rowspan="1" colspan="1" align="center" style="text-align: center"><div class="rtd-code"><code>hi</code></div></td>
+      <td rowspan="1" colspan="1" align="center" style="text-align: center"><div class="rtd-name">Hindi</div></td>
+    </tr>
+    <tr>
       <td rowspan="1" colspan="1" align="center" style="text-align: center"><div class="ltd-code"><code>it_IT</code></div></td>
       <td rowspan="1" colspan="1" align="center" style="text-align: center"><div class="ltd-name">
         <div class="ltd-name-english">Italian</div>
