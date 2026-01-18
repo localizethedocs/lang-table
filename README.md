@@ -196,6 +196,18 @@
       <td rowspan="1" colspan="1" align="center" style="text-align: center"><div class="rtd-name">Russian</div></td>
     </tr>
     <tr>
+      <td rowspan="1" colspan="1" align="center" style="text-align: center"><div class="ltd-code"><code>sr_RS</code></div></td>
+      <td rowspan="1" colspan="1" align="center" style="text-align: center"><div class="ltd-name">
+        <div class="ltd-name-english">Serbian</div>
+        <div class="ltd-name-native">Српски</div>
+      </div></td>
+      <td rowspan="1" colspan="1" align="center" style="text-align: center"><div class="ltd-region">Serbia</div></td>
+      <td rowspan="1" colspan="1" align="center" style="text-align: center"><div class="crowdin-code"><code>sr</code></div></td>
+      <td rowspan="1" colspan="1" align="center" style="text-align: center"><div class="crowdin-sym"><code>СР</code></div></td>
+      <td rowspan="1" colspan="1" align="center" style="text-align: center"><div class="rtd-code"><code>sr</code></div></td>
+      <td rowspan="1" colspan="1" align="center" style="text-align: center"><div class="rtd-name">Serbian</div></td>
+    </tr>
+    <tr>
       <td rowspan="1" colspan="1" align="center" style="text-align: center"><div class="ltd-code"><code>th_TH</code></div></td>
       <td rowspan="1" colspan="1" align="center" style="text-align: center"><div class="ltd-name">
         <div class="ltd-name-english">Thai</div>
