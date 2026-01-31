@@ -55,5 +55,5 @@ body:
           required: true
         - label: The language is supported by [Read The Docs](https://github.com/localizethedocs/lang-table/issues/1).
           required: true
-        - label: The Crowdin symbol of the language is unique. (Check [here](https://crowdin.com/project/list-all-languages))
+        - label: The language is symbolized by its native script on [Crowdin](https://crowdin.com/project/list-all-languages).
           required: true
