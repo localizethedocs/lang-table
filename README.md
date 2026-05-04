@@ -280,6 +280,18 @@
       <td rowspan="1" colspan="1" align="center" style="text-align: center"><div class="rtd-name">Turkish</div></td>
     </tr>
     <tr>
+      <td rowspan="1" colspan="1" align="center" style="text-align: center"><div class="ltd-code"><code>uk_UA</code></div></td>
+      <td rowspan="1" colspan="1" align="center" style="text-align: center"><div class="ltd-name">
+        <div class="ltd-name-english">Ukrainian</div>
+        <div class="ltd-name-native">Українська</div>
+      </div></td>
+      <td rowspan="1" colspan="1" align="center" style="text-align: center"><div class="ltd-region">Ukraine</div></td>
+      <td rowspan="1" colspan="1" align="center" style="text-align: center"><div class="crowdin-code"><code>uk</code></div></td>
+      <td rowspan="1" colspan="1" align="center" style="text-align: center"><div class="crowdin-sym"><code>УК</code></div></td>
+      <td rowspan="1" colspan="1" align="center" style="text-align: center"><div class="rtd-code"><code>uk_UA</code></div></td>
+      <td rowspan="1" colspan="1" align="center" style="text-align: center"><div class="rtd-name">Ukrainian</div></td>
+    </tr>
+    <tr>
       <td rowspan="1" colspan="1" align="center" style="text-align: center"><div class="ltd-code"><code>ur_PK</code></div></td>
       <td rowspan="1" colspan="1" align="center" style="text-align: center"><div class="ltd-name">
         <div class="ltd-name-english">Urdu</div>
