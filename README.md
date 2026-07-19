@@ -67,7 +67,7 @@
       <td rowspan="1" colspan="1" align="center" style="text-align: center"><div class="ltd-code"><code>es_ES</code></div></td>
       <td rowspan="1" colspan="1" align="center" style="text-align: center"><div class="ltd-name">
         <div class="ltd-name-english">European Spanish</div>
-        <div class="ltd-name-native">Español Europeo</div>
+        <div class="ltd-name-native">Español de España</div>
       </div></td>
       <td rowspan="1" colspan="1" align="center" style="text-align: center"><div class="ltd-region">Spain</div></td>
       <td rowspan="1" colspan="1" align="center" style="text-align: center"><div class="crowdin-code"><code>es</code></div></td>
@@ -79,7 +79,7 @@
       <td rowspan="1" colspan="1" align="center" style="text-align: center"><div class="ltd-code"><code>es_MX</code></div></td>
       <td rowspan="1" colspan="1" align="center" style="text-align: center"><div class="ltd-name">
         <div class="ltd-name-english">Mexican Spanish</div>
-        <div class="ltd-name-native">Español Mexicano</div>
+        <div class="ltd-name-native">Español de México</div>
       </div></td>
       <td rowspan="1" colspan="1" align="center" style="text-align: center"><div class="ltd-region">Mexico</div></td>
       <td rowspan="1" colspan="1" align="center" style="text-align: center"><div class="crowdin-code"><code>es-MX</code></div></td>
