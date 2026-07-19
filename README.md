@@ -70,7 +70,7 @@
         <div class="ltd-name-native">Español Europeo</div>
       </div></td>
       <td rowspan="1" colspan="1" align="center" style="text-align: center"><div class="ltd-region">Spain</div></td>
-      <td rowspan="1" colspan="1" align="center" style="text-align: center"><div class="crowdin-code"><code>es-ES</code></div></td>
+      <td rowspan="1" colspan="1" align="center" style="text-align: center"><div class="crowdin-code"><code>es</code></div></td>
       <td rowspan="1" colspan="1" align="center" style="text-align: center"><div class="crowdin-sym"><code>ES</code></div></td>
       <td rowspan="1" colspan="1" align="center" style="text-align: center"><div class="rtd-code"><code>es</code></div></td>
       <td rowspan="1" colspan="1" align="center" style="text-align: center"><div class="rtd-name">Spanish</div></td>
