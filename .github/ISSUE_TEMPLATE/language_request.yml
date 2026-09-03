@@ -1,6 +1,6 @@
 name: Request a New Language
 description: Use this template for requesting a new language.
-title: "[Langauge] `<locale-code>` : <english-name>"
+title: "[Language] `<locale-code>` : <english-name>"
 labels: [ "new language" ]
 body:
   - type: textarea
